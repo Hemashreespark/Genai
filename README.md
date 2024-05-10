@@ -1,3 +1,3 @@
 # TNSDC-Generative-AI
+PLANT DISEASE DETECTION USING CNN
 
-Plant leaf 
